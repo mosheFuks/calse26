@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//moshifuks.github.io/clase26/static/css/main.52c31880.css",
+    "main.js": "/https//moshifuks.github.io/clase26/static/js/main.64f34aeb.js",
+    "static/js/787.f6a997d9.chunk.js": "/https//moshifuks.github.io/clase26/static/js/787.f6a997d9.chunk.js",
+    "index.html": "/https//moshifuks.github.io/clase26/index.html",
+    "main.52c31880.css.map": "/https//moshifuks.github.io/clase26/static/css/main.52c31880.css.map",
+    "main.64f34aeb.js.map": "/https//moshifuks.github.io/clase26/static/js/main.64f34aeb.js.map",
+    "787.f6a997d9.chunk.js.map": "/https//moshifuks.github.io/clase26/static/js/787.f6a997d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52c31880.css",
+    "static/js/main.64f34aeb.js"
+  ]
+}
